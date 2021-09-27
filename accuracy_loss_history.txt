@@ -1,0 +1,14 @@
+Baseline:
+loss: 0.1548 - accuracy: 0.9603 - val_loss: 1.9829 - val_accuracy: 0.5041
+
+Dropout:
+loss: 1.4408 - accuracy: 0.3478 - val_loss: 1.5496 - val_accuracy: 0.2934
+
+Padding:
+loss: 0.1997 - accuracy: 0.9445 - val_loss: 2.1850 - val_accuracy: 0.5132
+
+Filter Increase:
+loss: 0.6587 - accuracy: 0.7553 - val_loss: 1.8831 - val_accuracy: 0.4620
+
+Augmentation:
+loss: 0.8433 - accuracy: 0.6653 - val_loss: 0.8234 - val_accuracy: 0.6876
